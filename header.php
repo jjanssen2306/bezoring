@@ -9,8 +9,8 @@
 <body>
 <header>
    <nav>
-        <div class="home"><p>home</p></div>
-        <div class="inlogen"><p>inlogen</p></div>
+   <div class="home"><a href="index.php"><p>home</p></a> </div>
+   <div class="inlogen"> <a href="login.php"><p>inlogen</p></a></div>
         </nav>
 
 </header>
